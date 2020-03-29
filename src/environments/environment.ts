@@ -4,8 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl:"https://jsonplaceholder.typicode.com/",
-base : "www.google.com"
+  baseUrl:"https://jsonplaceholder.typicode.com/"
 };
 
 /*
